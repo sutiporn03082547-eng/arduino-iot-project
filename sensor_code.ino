@@ -1,6 +1,5 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
-#include <WiFiClientSecure.h>
 
 #define WIFI_SSID "TemPuRa"           
 #define WIFI_PASSWORD "0804738686"    
